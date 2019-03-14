@@ -1,0 +1,560 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/kangz/Desktop/ESE 545/cell_spu - v2.0
+vCACHE
+Z0 !s110 1525223546
+!i10b 1
+!s100 g2`KKZc05_bJhW=oMOH=K0
+IMF75NS4i?N^47I16c>kel2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/kangz/Desktop/ESE 545/cell_spu
+w1525222577
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/cache.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/cache.v
+Z3 L0 10
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1525223546.000000
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/cache.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/cache.v|
+!s101 -O0
+!i113 1
+Z6 o-work cell -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@c@a@c@h@e
+vCTRL
+R0
+!i10b 1
+!s100 gR1;Eem]KTHm5^3hYQG]G1
+IajARfZC^>K_i:9nbDS[Qd3
+R1
+R2
+w1525222610
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ctrl.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ctrl.v
+L0 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ctrl.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ctrl.v|
+!s101 -O0
+!i113 1
+R6
+n@c@t@r@l
+vEX_EVEN
+R0
+!i10b 1
+!s100 h?4]^<iENBTdemmF4=`az2
+Iohc7Kb9>`H5CzB?]W4EP:0
+R1
+R2
+Z7 w1525222747
+Z8 8C:/Users/kangz/Desktop/ESE 545/cell_spu/ex.v
+Z9 FC:/Users/kangz/Desktop/ESE 545/cell_spu/ex.v
+L0 16
+R4
+r1
+!s85 0
+31
+R5
+Z10 !s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ex.v|
+Z11 !s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ex.v|
+!s101 -O0
+!i113 1
+R6
+n@e@x_@e@v@e@n
+vEX_FF
+Z12 !s110 1525223547
+!i10b 1
+!s100 Gh<?[JSMiKU9j?V62;WLo2
+I@IcBk6fB9<`P_4FeMNmVl1
+R1
+R2
+w1525222763
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ex_ff.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ex_ff.v
+R3
+R4
+r1
+!s85 0
+31
+Z13 !s108 1525223547.000000
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ex_ff.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ex_ff.v|
+!s101 -O0
+!i113 1
+R6
+n@e@x_@f@f
+vEX_ODD
+R0
+!i10b 1
+!s100 kdC3W?S0a9Yf2S?FPAReW0
+I[nXaa78KFl2N_WkjK4[9z2
+R1
+R2
+R7
+R8
+R9
+L0 1104
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!s101 -O0
+!i113 1
+R6
+n@e@x_@o@d@d
+vFF1
+R12
+!i10b 1
+!s100 mkV8h4[fM^f`G0J5m47Qm2
+IeQUDi@WZe?n;3]Fe_^o5D1
+R1
+R2
+w1525222815
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff1.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff1.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff1.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff1.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f1
+vFF2
+R12
+!i10b 1
+!s100 0`Oi^n2@K3IA@UI>bB6l31
+I7fg>iVo5Db;45U=K?^Pf@2
+R1
+R2
+w1525222834
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff2.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff2.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff2.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff2.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f2
+vFF3
+R12
+!i10b 1
+!s100 lm04?2UXmC5YZnY0K9^`M2
+I;?Zi7]zVER>6Db@mZ63zT3
+R1
+R2
+w1525222851
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff3.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff3.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff3.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff3.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f3
+vFF4
+R12
+!i10b 1
+!s100 e355meZb;leNK9K<[>CbX2
+I6XFHSdNb3ZSHMH3I<^Y8m3
+R1
+R2
+w1525222906
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff4.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff4.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff4.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff4.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f4
+vFF5
+R12
+!i10b 1
+!s100 ][<bDH_EdC_klMbh?Ah;<2
+I<nnhS;4e[3coJmFYQM>`_3
+R1
+R2
+w1525222955
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff5.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff5.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff5.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff5.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f5
+vFF6
+R12
+!i10b 1
+!s100 Rle4Z0lYnDcUMIji?OEjJ2
+IlNJm`NPoIgLkP7KKJz0Y22
+R1
+R2
+w1525222980
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff6.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff6.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff6.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff6.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f6
+vFF7
+R12
+!i10b 1
+!s100 1SKFJoj_l[5=KCC^ReCz]0
+IWgHGgYK_1CXb3d5Zh:dUD1
+R1
+R2
+w1525222995
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff7.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff7.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff7.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff7.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f7
+vFF_MEM
+R12
+!i10b 1
+!s100 ]<e7M9918CY6MbU836D7c0
+InX4;nlizb?SCP8J7nIOeS3
+R1
+R2
+w1525222795
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ff_mem.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ff_mem.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff_mem.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ff_mem.v|
+!s101 -O0
+!i113 1
+R6
+n@f@f_@m@e@m
+vID
+Z14 !s110 1525223548
+!i10b 1
+!s100 ;4QE]B`SRW`SoT4b8dG;B3
+I;Tm>@ob[aE:Na^hEZkGKl0
+R1
+R2
+w1525223189
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/id.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/id.v
+L0 21
+R4
+r1
+!s85 0
+31
+Z15 !s108 1525223548.000000
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/id.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/id.v|
+!s101 -O0
+!i113 1
+R6
+n@i@d
+vID_EX
+R14
+!i10b 1
+!s100 h7[Ug8L0D>P_ilb8_IT5:2
+ITm>jN[SlIQD=8S7G;`>;H3
+R1
+R2
+w1525223232
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/id_ex.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/id_ex.v
+Z16 L0 11
+R4
+r1
+!s85 0
+31
+R15
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/id_ex.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/id_ex.v|
+!s101 -O0
+!i113 1
+R6
+n@i@d_@e@x
+vIF_ID
+R14
+!i10b 1
+!s100 L0i05D7Q7lSSW:QY6PcFZ0
+I=HSE8PZ0iRPLTSHId77__2
+R1
+R2
+w1525164575
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/if_id.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/if_id.v
+L0 15
+R4
+r1
+!s85 0
+31
+R15
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/if_id.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/if_id.v|
+!s101 -O0
+!i113 1
+R6
+n@i@f_@i@d
+vLS
+R14
+!i10b 1
+!s100 CI;Ong[h1km7BLFH4hm=61
+I<`7022O`<]7jBN`2cjCj20
+R1
+R2
+w1524922391
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/ls.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/ls.v
+R16
+R4
+r1
+!s85 0
+31
+R15
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/ls.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/ls.v|
+!s101 -O0
+!i113 1
+R6
+n@l@s
+vMEM
+R14
+!i10b 1
+!s100 nBaIcU?AS6=aBooCGg]YA3
+I37?mS[MN<]GR>XU<8W1Ha1
+R1
+R2
+w1525223269
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/mem.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/mem.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/mem.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/mem.v|
+!s101 -O0
+!i113 1
+R6
+n@m@e@m
+vMEM_WB
+R14
+!i10b 1
+!s100 32B]ekade;;QDLUXVo6be2
+IBX6@M>YAIb=ISE@hZ;aHZ3
+R1
+R2
+w1524895170
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/mem_wb.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/mem_wb.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/mem_wb.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/mem_wb.v|
+!s101 -O0
+!i113 1
+R6
+n@m@e@m_@w@b
+vMEMORY
+!s110 1525223618
+!i10b 1
+!s100 W9ZUMW7[@m5Ko_=NEQ;a_0
+IE]JVLT7@4bX^BKIma;_552
+R1
+R2
+w1525174059
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/memory.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/memory.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1525223618.000000
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/memory.v|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@m@e@m@o@r@y
+vPC_REG
+R14
+!i10b 1
+!s100 f^DOI2j>aJJo[Pl;O3Fk:1
+IMBN9jfWKP<U[IM63L9<dZ0
+R1
+R2
+w1525211982
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/pc_reg.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/pc_reg.v
+Z17 L0 12
+R4
+r1
+!s85 0
+31
+R15
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/pc_reg.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/pc_reg.v|
+!s101 -O0
+!i113 1
+R6
+n@p@c_@r@e@g
+vREGFILE
+R14
+!i10b 1
+!s100 1zM<Yo;XBmhXV43dkiJKo3
+Iao`V;GX0LSaSzgCR;e2jU1
+R1
+R2
+w1525159952
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/regfile.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/regfile.v
+R17
+R4
+r1
+!s85 0
+31
+R15
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/regfile.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/regfile.v|
+!s101 -O0
+!i113 1
+R6
+n@r@e@g@f@i@l@e
+vSPE
+Z18 !s110 1525223549
+!i10b 1
+!s100 9zdY;gk:gEdXM<]I]^n0b0
+IKdc25Vdm9R2Uz?<Fk]OhO2
+R1
+R2
+w1525223328
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/spe.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/spe.v
+R16
+R4
+r1
+!s85 0
+31
+Z19 !s108 1525223549.000000
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/spe.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/spe.v|
+!s101 -O0
+!i113 1
+R6
+n@s@p@e
+vSPU
+R18
+!i10b 1
+!s100 AcAO@_6ZW:GUNdP]alHOn3
+IAUh3OIT910NknbPlR=>;<0
+R1
+R2
+w1525223497
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/spu.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/spu.v
+R16
+R4
+r1
+!s85 0
+31
+R19
+!s107 defines.v|C:/Users/kangz/Desktop/ESE 545/cell_spu/spu.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/spu.v|
+!s101 -O0
+!i113 1
+R6
+n@s@p@u
+vTB_SPE
+R0
+!i10b 1
+!s100 =[>9mAhb[VbSPQl:2[i1h2
+IdzXffXfk26i<R;Jf2n:H01
+R1
+R2
+w1525072441
+8C:/Users/kangz/Desktop/ESE 545/cell_spu/tb_spe.v
+FC:/Users/kangz/Desktop/ESE 545/cell_spu/tb_spe.v
+R16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/kangz/Desktop/ESE 545/cell_spu/tb_spe.v|
+!s90 -reportprogress|300|-work|cell|-stats=none|C:/Users/kangz/Desktop/ESE 545/cell_spu/tb_spe.v|
+!s101 -O0
+!i113 1
+R6
+n@t@b_@s@p@e

@@ -1,0 +1,167 @@
+{C:/Users/kangz/Desktop/ESE 545/cell_spu/cache.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/cache.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CACHE
+
+Top level modules:
+	CACHE
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ctrl.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ctrl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CTRL
+
+Top level modules:
+	CTRL
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff1.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF1
+
+Top level modules:
+	FF1
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff2.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF2
+
+Top level modules:
+	FF2
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ls.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ls.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LS
+
+Top level modules:
+	LS
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff3.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff3.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF3
+
+Top level modules:
+	FF3
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/mem_wb.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/mem_wb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/pc_reg.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/pc_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC_REG
+
+Top level modules:
+	PC_REG
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff4.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF4
+
+Top level modules:
+	FF4
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff5.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff5.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF5
+
+Top level modules:
+	FF5
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/id_ex.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/id_ex.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff6.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff6.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF6
+
+Top level modules:
+	FF6
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/if_id.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/if_id.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff7.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff7.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF7
+
+Top level modules:
+	FF7
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/id.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/id.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ex.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ex.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_EVEN
+-- Compiling module EX_ODD
+
+Top level modules:
+	EX_EVEN
+	EX_ODD
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/tb_spe.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/tb_spe.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_SPE
+
+Top level modules:
+	TB_SPE
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/regfile.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/regfile.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module REGFILE
+
+Top level modules:
+	REGFILE
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/defines.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/defines.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/mem.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/mem.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/spe.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/spe.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPE
+
+Top level modules:
+	SPE
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/spu.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/spu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPU
+
+Top level modules:
+	SPU
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ex_ff.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ex_ff.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_FF
+
+Top level modules:
+	EX_FF
+
+} {} {}} {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff_mem.v} {1 {vlog -work work -stats=none {C:/Users/kangz/Desktop/ESE 545/cell_spu/ff_mem.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF_MEM
+
+Top level modules:
+	FF_MEM
+
+} {} {}}
